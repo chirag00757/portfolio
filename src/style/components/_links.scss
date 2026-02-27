@@ -1,0 +1,11 @@
+.email-link {
+  color: #000000;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: #333333;
+    text-decoration: underline;
+  }
+}
